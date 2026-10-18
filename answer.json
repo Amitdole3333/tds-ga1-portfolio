@@ -1,1 +1,22 @@
-{"A": {"text": "Report job-bdd9926: café\nReady ✓", "complete": true, "error": null}, "B": {"text": "Partial job-bdd9926", "complete": false, "error": null}, "C": {"text": "Draft job-bdd9926", "complete": false, "error": "model unloaded"}}
+{
+  "A": {
+    "steps": ["L3", "L4", "L5"],
+    "seconds": 31
+  },
+  "B": {
+    "steps": ["L1", "L2", "L3", "L4", "L5"],
+    "seconds": 91
+  },
+  "C": {
+    "steps": [],
+    "seconds": 0
+  },
+  "D": {
+    "steps": [],
+    "seconds": 0
+  },
+  "E": {
+    "steps": ["L4", "L5"],
+    "seconds": 31
+  }
+}
